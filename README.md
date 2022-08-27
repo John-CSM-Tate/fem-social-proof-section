@@ -21,7 +21,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Frontend Mentor Solution Page](Solution Link)
-- Live Site URL: [Live Github Page](github link)
+- Live Site URL: [[Live Github Page]](https://john-csm-tate.github.io/fem-social-proof-section/)
 
 ## My process
 
